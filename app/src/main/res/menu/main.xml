@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.osmeuslugares.MainActivity" >
+
+    <item android:id="@+id/listLugares" android:title="@string/listado_lugares">
+         </item>
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_launcher" android:visible="true"/>
+    
+    <item
+        android:id="@+id/acerca_de"
+        android:title="@string/acerca_de"/>
+    <item
+        android:id="@+id/mi_posicion"
+        android:title="@string/mi_posicion"/>
+      <item
+        android:id="@+id/salir"
+        android:title="@string/salir"/>
+      <item
+          android:id="@+id/edit_categoria"
+          android:title="@string/edit_cat"/>
+
+</menu>

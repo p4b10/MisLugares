@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos_lugares">
+        <item >N/D</item>
+        <item >Praia</item>
+        <item >Restaurante</item>
+        <item >Praia</item>
+        <item >Panorámica</item>
+        <!-- Poner un item nuevo por cada categoría
+         que se meta en la BBDD Gabino Style -->
+    </string-array>
+    
+</resources>

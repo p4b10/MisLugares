@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Os Meus Lugares</string>
+    <string name="hello_world">Usa el menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_lugares">ListLugares</string>
+    <string name="title_activity_acerca_de">AcercaDeActivity</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="salir">Salir</string>
+    <string name="title_activity_edit_lugar">EditLugarActivity</string>
+    <string name="listado_lugares">Listado Lugares</string>
+    <string name="title_preferencias">Preferencias</string>
+    <string name="title_activity_preferencias">PreferenciasActivity</string>
+    <string name="add_lugar">Engadir Lugar</string>
+    <string name="edit_lugar">Editar Lugar</string>
+    <string name="mi_posicion">Mi ubicacion</string>
+    <string name="edit_delete">Eliminar Lugar</string>
+    <string name="title_activity_edit_categoria">EditCategoriaActivity</string>
+    <string name="cat_nombre">Nombre</string>
+    <string name="cat_icon">icono</string>
+    <string name="btn_guardar">guardar</string>
+    <string name="edit_cat">Nueva Categoria</string>
+    <string name="btn_borrar">eliminar</string>
+    <string name="title_activity_list_categorias">ListCategorias</string>
+    <string name="save_btn">Guardar</string>
+
+</resources>
